@@ -1,0 +1,18 @@
+* {
+  text-decoration: none;
+  list-style: none;
+}
+.header {
+  display: flex;
+  background-color: blue;
+  color: white;
+}
+.header-links {
+  display: flex;
+}
+
+.header-links ul li a {
+  color: white;
+  text-transform: uppercase;
+  padding: 0px 15px;
+}
